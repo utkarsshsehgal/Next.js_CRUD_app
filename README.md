@@ -1,5 +1,20 @@
-# Next.js_CRUD_app
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js_CRUD_app.
+This project is a simple CRUD (Create, Read, Update, Delete) application built with **Next.js**, **TailwindCSS**, **DaisyUI**, and **React Query**, using the **JSONPlaceholder API** for data handling.
+
+## Features
+- Fetch and display posts
+- Create a new post
+- Update existing posts
+- Delete posts
+- Styled with TailwindCSS & DaisyUI
+- Optimized state management with React Query
+
+## 🛠️ Tech Stack
+- **Next.js** (React framework)
+- **TailwindCSS** (Utility-first CSS framework)
+- **DaisyUI** (Pre-styled Tailwind components)
+- **React Query** (State management)
+- **JSONPlaceholder API** 
 
 ## Getting Started
 
